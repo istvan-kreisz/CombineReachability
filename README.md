@@ -1,5 +1,10 @@
 # CombineReachability
 
+[![GitHub release](https://img.shields.io/github/release/RxSwiftCommunity/rxreachability.svg)](https://github.com/istvan-kreisz/CombineReachability/releases)
+[![Version](https://img.shields.io/cocoapods/v/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/CombineReachability)
+[![License](https://img.shields.io/cocoapods/l/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/CombineReachability)
+[![Platform](https://img.shields.io/cocoapods/p/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/RxReachability)
+
 CombineReachability adds easy to use Combine publishers for [ReachabilitySwift](https://github.com/ashleymills/Reachability.swift).
 It adds the ability to react to network reachability changes in a reactive way using the power of Combine.
 This library was inspired by the RxSwift Community's [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) library.
