@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CombineReachability'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Combine publishers for Reachability'
 
   s.description      = <<-DESC
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage          = 'https://github.com/istvan-kreisz/CombineReachability.git'
   s.license           = { :type => 'MIT', :file => 'LICENSE.md' }
   s.authors           = { 'Istvan Kreisz' => 'kreiszdev@gmail.com' }
-  s.source            = { :git => 'https://github.com/istvan-kreisz/CombineReachability.git', :tag => "1.0.0" }
+  s.source            = { :git => 'https://github.com/istvan-kreisz/CombineReachability.git', :tag => s.version.to_s }
   s.source_files      = 'Sources/CombineReachability/*'
 
   s.ios.deployment_target   = '13.0'

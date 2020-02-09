@@ -1,6 +1,5 @@
 # CombineReachability
 
-[![GitHub release](https://img.shields.io/github/release/RxSwiftCommunity/rxreachability.svg)](https://github.com/istvan-kreisz/CombineReachability/releases)
 [![Version](https://img.shields.io/cocoapods/v/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/CombineReachability)
 [![License](https://img.shields.io/cocoapods/l/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/CombineReachability)
 [![Platform](https://img.shields.io/cocoapods/p/CombineReachability.svg?style=flat)](http://cocoapods.org/pods/RxReachability)
